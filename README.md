@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nissan Dookeran</h1>
 <h3 align="center">A passionate software architect and developer</h3>
 
-<p align="left"> <a href="https://twitter.com/nissan" target="blank"><img src="https://img.shields.io/twitter/follow/nissan?logo=twitter&style=for-the-badge" alt="nissan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/redditech" target="blank"><img src="https://img.shields.io/twitter/follow/nissan?logo=twitter&style=for-the-badge" alt="nissan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
