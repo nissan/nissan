@@ -80,5 +80,5 @@ Industries: Financial Services · Healthcare · Blockchain/Web3 · AI/ML · Tele
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nissan&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=F97316&icon_color=F97316&text_color=94A3B8" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=nissan&theme=dark&hide_border=true&background=0F172A&stroke=334155&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=94A3B8&sideNums=F8FAFC&dates=94A3B8" alt="GitHub streak stats" />
 </p>
